@@ -8,8 +8,5 @@ I'm Sora.
 
 
 <a href="https://github.com/sora0613">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=Sora0613&count_private=true&show_icons=true&theme=dracula" />
-</a>
-<a href="https://github.com/sora0613">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora0613&layout=compact&theme=dracula" />
 </a>
