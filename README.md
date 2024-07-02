@@ -6,7 +6,7 @@ My Portfolio is <a href="https://sora0613.com">HERE</a>
 
 - 📚 I’m currently studying at Kansai Gaidai University.
 - 🌱 I’m currently learning PHP, ( mainly Laravel ) Go, and Flutter.
-- 📫 How to reach me: Please send email to sora0613.contact@gmail.com
+- 📫 How to reach me: Please send email to contact@sora0613.com
 
 
 <a href="https://github.com/sora0613">
