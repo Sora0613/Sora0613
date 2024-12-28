@@ -1,18 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋</h1>
+<h3 align="center">I'm Sora, Full Stack Engineer.</h3>
 
-I'm Sora.
+<p align="center">
+  <a href="https://s0r4.jp" target="_blank"><strong>🌐 My Portfolio</strong></a>
+</p>
 
-My Portfolio is <a href="https://s0r4.jp">HERE</a> 
+---
 
-# My Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,php,python,ts,js,html,css,react,git,github,apple,docker,phpstorm,mysql,laravel" />
+## 💼 About Me
 
+- 🎓 **Student Developer**: Currently pursuing my studies at **Kansai Gaidai University**.
+- 🔧 **Tech Enthusiast**: Exploring **Go**, **Laravel**, **React**, **Flutter** and **SwiftUI**.
+- 🌱 **Learner**: Constantly expanding my skillset to tackle new challenges.
+- 📫 **Reach Me**: [contact@sora0613.com](mailto:contact@sora0613.com)
 
-- 📚 I’m currently studying at Kansai Gaidai University.
-- 🌱 I’m currently learning PHP, ( mainly Laravel ) Go, React, and Flutter.
-- 📫 How to reach me: Please send email to contact@sora0613.com
+---
 
+## 🛠 My Skills
 
-<a href="https://github.com/sora0613">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora0613&layout=compact&theme=dracula" />
-</a>
+<p align="center">
+  <img alt="Skill Icons" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,php,python,ts,js,html,css,react,git,github,apple,docker,phpstorm,mysql,laravel,firebase,nginx" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-clone-git-main-sora0613s-projects.vercel.app/api/?username=Sora0613&theme=dark&show_icons=true&rank_icon=github&card_width=450" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora0613&layout=compact&hide_progress=true&theme=dark&card_width=450" alt="Top Languages" />
+</div>
+
+---
