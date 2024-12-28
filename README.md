@@ -7,12 +7,29 @@
 
 ---
 
-## 💼 About Me
+<p align="center">
+  <a href="#english">🌍 English</a> | <a href="#japanese">🇯🇵 日本語</a>
+</p>
+
+---
+## [🌍 English](#english)
+
+### 💼 About Me
 
 - 🎓 **Student Developer**: Currently pursuing my studies at **Kansai Gaidai University**.
 - 🔧 **Tech Enthusiast**: Exploring **Go**, **Laravel**, **React**, **Flutter** and **SwiftUI**.
 - 🌱 **Learner**: Constantly expanding my skillset to tackle new challenges.
 - 📫 **Reach Me**: [contact@sora0613.com](mailto:contact@sora0613.com)
+
+---
+## [🇯🇵 日本語](#japanese)
+
+### 💼 自己紹介
+
+- 🎓 現在、関西外国語大学に在学中。(2025年卒業予定)
+- 🔧 **Go**をメインとして、**React**,　**Laravel**, **Flutter**, **SwiftUI**を使って開発を行っています。
+- 🌱 新しい技術を学び、自分にアイデアを形にすることが好きです。
+- 📫 連絡先: [contact@sora0613.com](mailto:contact@sora0613.com)
 
 ---
 
@@ -31,5 +48,3 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora0613&layout=compact&hide_progress=true&theme=dark&card_width=450" alt="Top Languages" />
 </div>
-
----
