@@ -8,21 +8,21 @@
 ---
 
 <p align="center">
-  <a href="#english">🌍 English</a> | <a href="#japanese">🇯🇵 日本語</a>
+  <a href="#English">🌍 English</a> | <a href="#日本語">🇯🇵 日本語</a>
 </p>
 
 ---
-## [🌍 English](#english)
+## 🌍 [English](#english)
 
 ### 💼 About Me
 
 - 🎓 **Student Developer**: Currently pursuing my studies at **Kansai Gaidai University**.
 - 🔧 **Tech Enthusiast**: Exploring **Go**, **Laravel**, **React**, **Flutter** and **SwiftUI**.
-- 🌱 **Learner**: Constantly expanding my skillset to tackle new challenges.
+- 🌱 **Learner**: Constantly expanding my skillset to bring my ideas to life.
 - 📫 **Reach Me**: [contact@sora0613.com](mailto:contact@sora0613.com)
 
 ---
-## [🇯🇵 日本語](#japanese)
+## 🇯🇵[日本語](#japanese)
 
 ### 💼 自己紹介
 
