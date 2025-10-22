@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Sora, Full Stack Engineer.</h3>
+<h3 align="center">I'm Sora, BackEnd Engineer.</h3>
 
 <p align="center">
   <a href="https://s0r4.jp" target="_blank"><strong>🌐 My Portfolio</strong></a>
