@@ -12,18 +12,12 @@
 </p>
 
 ---
-
-<p align="center">
-  You can use my pruduct smartpantry from <a href="https://smartpantry.jp">HERE</a>
-</p>
-
----
 ## 🌍[English](#english)
 
 ### 💼 About Me
 
-- 🎓 **Student Developer**: Currently pursuing my studies at **Kansai Gaidai University**.
-- 🔧 **Tech Enthusiast**: Exploring **Go**, **Laravel**, **React**, **Flutter** and **SwiftUI**.
+- 🎓 **My Job**: Currently working as Web App Engineer.
+- 🔧 **Tech Enthusiast**: Mainly use PHP in my work. Exploring **Go**, **Laravel**, **React**, **Flutter** and **SwiftUI** when I was uni student.
 - 🌱 **Learner**: Constantly expanding my skillset to bring my ideas to life.
 - 📫 **Reach Me**: [sora0613.contact@gmail.com](mailto:sora0613.contact@gmail.com)
 
@@ -32,8 +26,8 @@
 
 ### 💼 自己紹介
 
-- 🎓 現在、関西外国語大学に在学中。(2025年卒業)
-- 🔧 **Go**をメインとして、**React**,　**Laravel**, **Flutter**, **SwiftUI**を使って開発を行っています。
+- 💻 現在、Webアプリケーションエンジニアとして働いております。
+- 🔧 大学時代は、**Go**をメインとして、**React**,　**Laravel**, **Flutter**, **SwiftUI**を使って開発を行っておりました。現在はPHPをメインとして開発を行っております。
 - 🌱 新しい技術を学び、自分にアイデアを形にすることが好きです。
 - 📫 連絡先: [sora0613.contact@gmail.com](mailto:sora0613.contact@gmail.com)
 
