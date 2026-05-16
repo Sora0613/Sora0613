@@ -45,6 +45,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats-clone-git-main-sora0613s-projects.vercel.app/api/?username=Sora0613&theme=dark&show_icons=true&rank_icon=github&card_width=450" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora0613&layout=compact&hide_progress=true&theme=dark&card_width=450" alt="Top Languages" />
 </div>
